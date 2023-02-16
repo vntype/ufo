@@ -40,4 +40,4 @@ If you would like to stay informed about group meetings and other organizational
   [Contributions are welcome!]: contributing
   [GitHub]: https://github.com/unified-font-object/ufo-spec
   [UFO Specification Issue Tracker]: https://github.com/unified-font-object/ufo-spec/issues
-  [UFO Specification Google Group]: https://groups.google.com/g/ufo-spec
+  [My website]: https:vntype.com
